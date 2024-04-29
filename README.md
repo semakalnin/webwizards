@@ -4,7 +4,10 @@ The code is working properly.
 Adaptive interface for all devices via Bootstrap libraries.
 
 
-https://github.com/semakalnin/webwizards/assets/75793316/feacf0b7-fe79-4163-965a-e6a4727b756e
+
+
+https://github.com/semakalnin/webwizards/assets/75793316/22a621a1-b4eb-4608-8083-4ef6ce91c271
+
 
 
 ![wws](https://github.com/semakalnin/webwizards/assets/75793316/8651b6f7-814f-4e4d-b6a0-d148b20ce1cd)
